@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Volleyball</title>
+</head>
+
+<body>
+
+<header>
+<h1>Volleyball</h1>
+</header>
+
+<center>
+<h2>Voley</h2>
+<img src="IMG/voley.jpg" alt="voley" width="400">
+</center>
+
+<section>
+<h3>Información básica</h3>
+<p>
+El voleibol es un deporte creado en 1895 por William G. Morgan en Estados Unidos.
+Se inventó como una alternativa menos física que el baloncesto y con el tiempo se
+volvió muy popular en todo el mundo. Se juega entre dos equipos de seis jugadores
+que intentan pasar el balón por encima de una red y hacerlo tocar el suelo del
+campo rival. Actualmente es uno de los deportes más practicados y forma parte de
+los Juegos Olímpicos desde 1964.
+</p>
+</section>
+
+<section>
+<h3>Competencias más importantes</h3>
+
+<ul>
+
+<li><b>Juegos Olímpicos:</b> Se juegan cada 4 años. La última edición fue en París 2024 y el campeón masculino fue Francia.</li>
+<li><b>Campeonato Mundial de Voleibol:</b> Se juega cada 4 años. El último campeón masculino (2022) fue Italia.</li>
+<li><b>Liga de Naciones de Voleibol (VNL):</b> Se disputa todos los años entre las mejores selecciones del mundo. El último campeón masculino (2024) fue Francia.</li>
+<li><b>Copa del Mundo de Voleibol:</b> Torneo internacional importante que sirve como clasificación olímpica en algunas ediciones. El último campeón masculino fue Brasil (2019).</li>
+<li><b>Campeonato Europeo de Voleibol:</b> Competencia entre selecciones de Europa. El último campeón masculino (2023) fue Polonia.</li>
+<li><b>Campeonato Sudamericano de Voleibol:</b> Torneo entre selecciones de Sudamérica. El último campeón masculino (2023) fue Brasil.</li>
+<li><b>Champions League de Voleibol:</b> Es la competencia de clubes más importante de Europa. El último campeón (2024) fue el club italiano Trentino.</li>
+<li><b>World Grand Champions Cup:</b> Torneo internacional que se disputa ocasionalmente entre campeones continentales. El último campeón masculino fue Brasil.</li>
+
+</ul>
+
+</section>
+
+<section>
+<h3>Datos curiosos</h3>
+<ul>
+<li>El voleibol fue creado en 1895 en Estados Unidos.</li>
+<li>Es uno de los deportes más practicados en escuelas y clubes.</li>
+<li>Forma parte de los Juegos Olímpicos desde 1964.</li>
+</ul>
+</section>
+
+</body>
+</html>
